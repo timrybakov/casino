@@ -1,0 +1,12 @@
+2025-02-18 18:25:18,877 - [INFO] - aiogram.dispatcher - (dispatcher.py).start_polling(527) - Start polling
+2025-02-18 18:25:22,837 - [INFO] - aiogram.dispatcher - (dispatcher.py)._polling(341) - Run polling for bot @casino12345789_bot id=7961682138 - 'casino_bot'
+2025-02-18 18:25:30,487 - [INFO] - aiogram.event - (dispatcher.py).feed_update(172) - Update id=331977591 is handled. Duration 615 ms by bot id=7961682138
+2025-02-18 18:25:41,543 - [WARNING] - aiogram.dispatcher - (dispatcher.py)._signal_stop_polling(455) - Received SIGINT signal
+2025-02-18 18:25:41,544 - [INFO] - aiogram.dispatcher - (dispatcher.py)._polling(359) - Polling stopped for bot @casino12345789_bot id=7961682138 - 'casino_bot'
+2025-02-18 18:25:41,544 - [INFO] - aiogram.dispatcher - (dispatcher.py).start_polling(554) - Polling stopped
+2025-02-18 18:25:42,926 - [INFO] - aiogram.dispatcher - (dispatcher.py).start_polling(527) - Start polling
+2025-02-18 18:25:43,327 - [INFO] - aiogram.dispatcher - (dispatcher.py)._polling(341) - Run polling for bot @casino12345789_bot id=7961682138 - 'casino_bot'
+2025-02-18 18:25:45,124 - [INFO] - aiogram.event - (dispatcher.py).feed_update(172) - Update id=331977592 is handled. Duration 494 ms by bot id=7961682138
+2025-02-18 18:27:24,231 - [WARNING] - aiogram.dispatcher - (dispatcher.py)._signal_stop_polling(455) - Received SIGINT signal
+2025-02-18 18:27:24,233 - [INFO] - aiogram.dispatcher - (dispatcher.py)._polling(359) - Polling stopped for bot @casino12345789_bot id=7961682138 - 'casino_bot'
+2025-02-18 18:27:24,233 - [INFO] - aiogram.dispatcher - (dispatcher.py).start_polling(554) - Polling stopped
